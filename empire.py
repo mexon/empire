@@ -13,7 +13,7 @@ places = [
     {"territory": "Anguilla", "name": "Anguillita", "lat": 18.158139, "lon": -63.175722},
     {"territory": "Bermuda", "name": "Sandys Parish", "lat": 32.3, "lon": -64.866667},
     {"territory": "Bermuda", "name": "St George's Parish", "lat": 32.371667, "lon": -64.675556},
-    # {"territory": "British Antarctic Territory", "name": "South Pole", "lat": -90, "lon": 0},
+    {"territory": "British Antarctic Territory", "name": "South Pole", "lat": -90, "lon": 0},
     {"territory": "British Antarctic Territory", "name": "Halley Research Station", "lat": -75.568056, "lon": -25.508333},
     {"territory": "British Antarctic Territory", "name": "Rothera Research Station", "lat": -67.568783, "lon": -68.125028},
     {"territory": "British Virgin Islands", "name": "Anegada", "lat": 18.733333, "lon": -64.333333},
@@ -37,8 +37,8 @@ places = [
     {"territory": "Turks and Caicos Islands", "name": "West Caicos", "lat": 21.666667, "lon": -72.458333},
     {"territory": "Turks and Caicos Islands", "name": "Cockburn Town", "lat": 21.459, "lon": -71.139},
 
-    # {"territory": "British Indian Ocean Territory", "name": "Egmont Islands", "lat": -6.666667, "lon": 71.35},
-    # {"territory": "British Indian Ocean Territory", "name": "Diego Garcia", "lat": -7.313333, "lon": 72.411111},
+    {"territory": "British Indian Ocean Territory", "name": "Egmont Islands", "lat": -6.666667, "lon": 71.35},
+    {"territory": "British Indian Ocean Territory", "name": "Diego Garcia", "lat": -7.313333, "lon": 72.411111},
 ]
 
 start = datetime.datetime.fromisoformat('2026-01-01T00:00:00Z')
